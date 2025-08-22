@@ -46,7 +46,6 @@ go run ./cmd/structural/proxy/main.go
 ```
 
 ## Requirements
-## Requirements
 - Go 1.24.5 or later
 - No other external dependencies
 
@@ -54,13 +53,10 @@ go run ./cmd/structural/proxy/main.go
 
 ## Resources
 - **Design Patterns: Elements of Reusable Object-Oriented Software** by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides  
-  
   [Google Books](https://books.google.com.tr/books/about/Design_Patterns.html?id=6oHuKQe3TjQC&redir_esc=y)
 
 - **Refactoring: Improving the Design of Existing Code** by Martin Fowler, Kent Beck, John Brant, William Opdyke, Don Roberts
-  
   [Google Books](https://books.google.com.tr/books/about/Refactoring.html?id=HmrDHwgkbPsC&redir_esc=y)
 
 - **Refactoring Guru**
-  
   [Site](https://refactoring.guru/)
