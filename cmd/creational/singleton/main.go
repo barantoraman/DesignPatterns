@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/barantoraman/DesignPatternsTraining/internal/creational/singleton"
+	"github.com/barantoraman/DesignPatterns/internal/creational/singleton"
 )
 
 func main() {

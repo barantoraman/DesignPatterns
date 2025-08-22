@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	simplefactory "github.com/barantoraman/DesignPatternsTraining/internal/creational/simple_factory"
+	simplefactory "github.com/barantoraman/DesignPatterns/internal/creational/simple_factory"
 )
 
 func main() {
