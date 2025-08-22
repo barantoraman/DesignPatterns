@@ -1,6 +1,6 @@
 package main
 
-import "github.com/barantoraman/DesignPatternsTraining/internal/behavioral/strategy"
+import "github.com/barantoraman/DesignPatterns/internal/behavioral/strategy"
 
 func main() {
 	lfu := &strategy.Lfu{}

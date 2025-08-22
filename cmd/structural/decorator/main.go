@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/barantoraman/DesignPatternsTraining/internal/structural/decorator"
+	"github.com/barantoraman/DesignPatterns/internal/structural/decorator"
 )
 
 func main() {

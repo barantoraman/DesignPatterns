@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/barantoraman/DesignPatternsTraining/internal/creational/builder"
+	"github.com/barantoraman/DesignPatterns/internal/creational/builder"
 )
 
 func main() {

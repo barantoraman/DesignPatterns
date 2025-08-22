@@ -1,6 +1,6 @@
 package main
 
-import "github.com/barantoraman/DesignPatternsTraining/internal/structural/adapter"
+import "github.com/barantoraman/DesignPatterns/internal/structural/adapter"
 
 func main() {
 	mac := &adapter.Mac{}

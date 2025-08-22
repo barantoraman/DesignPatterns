@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/barantoraman/DesignPatternsTraining/internal/behavioral/visitor"
+	"github.com/barantoraman/DesignPatterns/internal/behavioral/visitor"
 )
 
 func main() {

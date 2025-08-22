@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	abstractfactory "github.com/barantoraman/DesignPatternsTraining/internal/creational/abstract_factory"
+	abstractfactory "github.com/barantoraman/DesignPatterns/internal/creational/abstract_factory"
 )
 
 func main() {

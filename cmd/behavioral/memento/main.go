@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/barantoraman/DesignPatternsTraining/internal/behavioral/memento"
+	"github.com/barantoraman/DesignPatterns/internal/behavioral/memento"
 )
 
 func main() {

@@ -1,6 +1,6 @@
 package main
 
-import "github.com/barantoraman/DesignPatternsTraining/internal/behavioral/observer"
+import "github.com/barantoraman/DesignPatterns/internal/behavioral/observer"
 
 func main() {
 	shirtItem := observer.NewItem("nike shirt")

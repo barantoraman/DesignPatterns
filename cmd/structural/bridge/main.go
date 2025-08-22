@@ -1,6 +1,6 @@
 package main
 
-import "github.com/barantoraman/DesignPatternsTraining/internal/structural/bridge"
+import "github.com/barantoraman/DesignPatterns/internal/structural/bridge"
 
 func main() {
 	hpPrinter := &bridge.Hp{}

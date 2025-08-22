@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/barantoraman/DesignPatternsTraining/internal/structural/proxy"
+	"github.com/barantoraman/DesignPatterns/internal/structural/proxy"
 )
 
 func main() {

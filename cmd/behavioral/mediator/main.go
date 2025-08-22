@@ -1,6 +1,6 @@
 package main
 
-import "github.com/barantoraman/DesignPatternsTraining/internal/behavioral/mediator"
+import "github.com/barantoraman/DesignPatterns/internal/behavioral/mediator"
 
 func main() {
 	manager := mediator.NewStationManger()

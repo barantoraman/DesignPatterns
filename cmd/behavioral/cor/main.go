@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/barantoraman/DesignPatternsTraining/internal/behavioral/cor"
+	"github.com/barantoraman/DesignPatterns/internal/behavioral/cor"
 )
 
 func main() {

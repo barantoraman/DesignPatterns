@@ -1,6 +1,6 @@
 package main
 
-import "github.com/barantoraman/DesignPatternsTraining/internal/behavioral/command"
+import "github.com/barantoraman/DesignPatterns/internal/behavioral/command"
 
 func main() {
 	tv := &command.Tv{}
